@@ -1,0 +1,6 @@
+pywin32
+requests
+Pillow
+numpy
+psutil
+pynput
